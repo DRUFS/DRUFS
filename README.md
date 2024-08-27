@@ -1,6 +1,6 @@
 ## Hello! 
 
-I'm a recent graduate of Columbia University seeking professional growth.
+I'm a recent graduate of Columbia University seeking professional growth and opportunities to collaborate!
 
 ### Languages and tools
 
