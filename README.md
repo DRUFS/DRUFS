@@ -5,5 +5,5 @@ I'm a recent graduate of Columbia University seeking professional growth and opp
 ### Languages and tools
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=c,py,bash,java,html,md,latex,vim,anaconda,autocad,git,github,linux,ae,ps,powershell&perline=8&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=py,c,java,latex,vim,bash,html,linux,powershell,anaconda,autocad,git,github,ae,ps&perline=8&theme=dark" />
 </a>
